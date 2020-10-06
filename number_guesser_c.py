@@ -1,5 +1,3 @@
-import random
-
 num = int(input("Enter a number between 1 and 100: "))
 
 counter = 0
